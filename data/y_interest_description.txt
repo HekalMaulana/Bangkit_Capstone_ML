@@ -1,77 +1,127 @@
-1.If you had access to a time machine,would you rather travel to:
-0:past
-1:future
-2:i would sell it
+1. Jika Anda memiliki mesin waktu, apa yang akan Anda lakukan?
+0: Pergi ke masa lalu
+1: Pergi ke masa depan
+2: Saya akan menjualnya
 
-2.what type of person are you?
-0:early bird
-1:afternoon person
-2:night owl
+2. Anda tipe orang seperti apa?
+0: Orang pagi (early bird)
+1: Orang siang (afternoon person)
+2: Orang malam (night owl)
 
-3.what is the nature of your job?
-0:work from home
-1:work by travel
-2:work with peers
+3. Bagaimana sifat pekerjaan Anda?
+0: Bekerja dari rumah
+1: Bekerja dengan bepergian
+2: Bekerja bersama rekan kerja
 
-4.What type of person are you?
-0:extrovert
-1:ambivert
-2:introvert
+4. Anda tipe kepribadian seperti apa?
+0: Ekstrovert
+1: Ambivert
+2: Introvert
 
-5.how good are you at studies(%)?
-0:80-100
-1:50-80
-2:below 50
+5. Seberapa baik Anda dalam belajar (%)?
+0: 80–100%
+1: 50–80%
+2: Di bawah 50%
 
-6.Which age group do you belong?
-0:8-16
-1:16-24
-2:above 24
+6. Bagaimana Anda menggambarkan diri Anda?
+0: Percaya diri
+1: Tidak percaya diri
+2: Agak percaya diri
 
-7.Talk about yourself(Text):
-0:confident
-1:not confident
-2:kinda confident
+7. Apa yang memotivasi Anda untuk bekerja keras?
+0: Melihat pencapaian pribadi
+1: Memberikan kontribusi positif bagi dunia
+2: Membuat orang-orang terdekat bahagia
 
-8.What insipires you?
-0:seeing the world
-1:improving the world
-2:making others happy
+8. Anda tipe orang seperti apa?
+0: Peduli (caring)
+1: Cerdas (intelligent)
+2: Petualang (adventurous)
 
-9.what type of person are you?
-0:caring
-1:intelligent
-2:adventurous
+9. Kapan Anda merasa paling bahagia?
+0: Ketika berhasil memecahkan sebuah masalah
+1: Ketika tampil di depan umum
+2: Ketika berhasil menciptakan sesuatu
 
-10.You feel the happiest when you?
-0:solve a technical issue
-1:perform on stage
-2:create something
+10. Bagaimana Anda menggambarkan olahraga ideal Anda?
+0: Pergi ke gym
+1: Olahraga di luar ruangan
+2: Tidak berolahraga
 
-11.Describe your ideal workout:
-0:Gym
-1:Outdoor exercise
-2:no workout
+11. Berapa banyak waktu yang Anda habiskan di media sosial?
+0: Tidak ada waktu untuk itu
+1: Sedikit waktu
+2: Selalu aktif di media sosial
 
-12.How much time do you spend on social media?
-0:No time for that
-1:less time
-2:always on social media
+12. Bagaimana Anda menghabiskan uang?
+0: Berbelanja
+1: Mengadakan pesta
+2: Menginvestasikannya
 
-13.How do you spend your money?
-0:shop yourself
-1:throw a party
-2:invest it
+13. Lingkungan kerja seperti apa yang Anda sukai?
+0: Ruangan yang tenang dan tertutup
+1: Lingkungan santai dengan banyak interaksi
+2: Tempat dengan suasana terbuka dan kreatif
 
-14.describe your workspace:
-0:silent room
-1:informal lounge
-2:my favorite coffee shop
+14. Apa prioritas utama Anda dalam hidup?
+0: Karier dan kesuksesan pribadi
+1: Keluarga dan hubungan sosial
+2: Keseimbangan hidup dan kebahagiaan pribadi
 
-15.would you rather be:
-0:A world class villian
-1:unrecognised hero
-2:richest person but alone
+15.Seberapa baik anda dalam mata pelajaran matematika ?
+0: Kurang baik
+1: baik
+2: Sangat Baik
+
+16.Seberapa baik anda dalam mata pelajaran Fisika ?
+0: Kurang baik
+1: baik
+2: Sangat Baik
+
+17.Seberapa baik anda dalam mata pelajaran kimia ?
+0: Kurang baik
+1: baik
+2: Sangat Baik
+
+18.Seberapa baik anda dalam mata pelajaran Biologi ?
+0: Kurang baik
+1: baik
+2: Sangat Baik
+
+19.Seberapa baik anda dalam mata pelajaran Bahasa Inggris ?
+0: Kurang baik
+1: baik
+2: Sangat Baik
+
+20.Seberapa baik anda dalam mata pelajaran Bahasa Indonesia ?
+0: Kurang baik
+1: baik
+2: Sangat Baik
+
+21.Seberapa baik anda dalam ilmu Ekonomi ?
+0: Kurang baik
+1: baik
+2: Sangat Baik
+
+22.Seberapa baik anda dalam Teknologi Informasi ?
+0: Kurang baik
+1: baik
+2: Sangat Baik
+
+23.Seberapa baik anda dalam Seni Dan Desain ?
+0: Kurang baik
+1: baik
+2: Sangat Baik
+
+24.Seberapa baik anda dalam Geografi Dan Sejarah ?
+0: Kurang baik
+1: baik
+2: Sangat Baik
+
+25.Seberapa baik anda dalam ilmu Sosiologi Dan Psikologi ?
+0: Kurang baik
+1: baik
+2: Sangat Baik
 
 y.
 [1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0] = Education sector
